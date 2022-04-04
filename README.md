@@ -1,2 +1,2 @@
-# 600092
-Data Mining and Decisions Systems
+# 600092 Data Mining and Decisions Systems
+
